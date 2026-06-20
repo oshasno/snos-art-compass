@@ -60,7 +60,7 @@ a:hover {
 }
 
 .hero-img {
-    width: 60px;
+    width: 90px;
     height: auto;
     border-radius: 12px;
     border: 2px solid var(--accent);
